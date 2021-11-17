@@ -1,5 +1,5 @@
 #+STARTUP: showall
-#+TITLE: Edit with emacs Everywhere
+#+TITLE: Edit with emacs Everywhere in OS X
 #+OPTIONS: ^:nil
 
 * Introduction
